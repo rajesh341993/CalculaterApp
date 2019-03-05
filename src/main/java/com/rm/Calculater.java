@@ -9,7 +9,7 @@ public class Calculater {
 		return av-b;
 	}
 	
-	public float mult(float a,float b) {
+	public float multi(float a,float b) {
 		return a*b;
 	}
 	
