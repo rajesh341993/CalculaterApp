@@ -5,8 +5,8 @@ public class Calculater {
 		return a+b;
 	}
 	
-	public float sub(float a,float b) {
-		return a-b;
+	public float sub(float av,float b) {
+		return av-b;
 	}
 	
 	public float mult(float a,float b) {
