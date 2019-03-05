@@ -16,6 +16,9 @@ public class Calculater {
 	public float div(float a,float b) {
 		return a/b;
 	}
+	public float ram(float a,float b) {
+		return a/b;
+	}
 	public static void main(String[] args) {
 	Calculater c=new Calculater();
 	System.out.println(c.add(5,9));
